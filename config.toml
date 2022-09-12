@@ -1,4 +1,4 @@
-baseurl = "https://integrative-pathway-models-Public/income.github.io/"
+baseurl = "https://integrative-pathway-models-Public.github.io/"
 contentdir    = "content"
 layoutdir     = "layouts"
 themesDir = "themes"
