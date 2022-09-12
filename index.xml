@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Funds on INCOME</title>
-    <link>https://income.github.io/</link>
+    <link>https://integrative-pathway-models.github.io/</link>
     <description>Recent content in Funds on INCOME</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://income.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://integrative-pathway-models.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://income.github.io/page/about/</link>
+      <link>https://integrative-pathway-models.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://income.github.io/page/about/</guid>
+      <guid>https://integrative-pathway-models.github.io/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
 I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
@@ -18,28 +18,28 @@ my history To be honest, I&amp;rsquo;m having some trouble remembering right now
     
     <item>
       <title>Aims</title>
-      <link>https://income.github.io/page/aim/</link>
+      <link>https://integrative-pathway-models.github.io/page/aim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://income.github.io/page/aim/</guid>
+      <guid>https://integrative-pathway-models.github.io/page/aim/</guid>
       <description>The aim of INCOME is to promote collaboration and exchange between research groups through targeted networking and training activities. Over the last years, INCOME organised various conferences and hackathons. This allowed researchers and software developers to jointly create a culture of data and model sharing, developing methods to improve the technical links and reusability of existing simulation models. In this way, the meetings provided a platform for strengthening the community.</description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>https://income.github.io/page/events/</link>
+      <link>https://integrative-pathway-models.github.io/page/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://income.github.io/page/events/</guid>
+      <guid>https://integrative-pathway-models.github.io/page/events/</guid>
       <description>Upcoming events: Workshop on Statistical Inference for Dynamical Systems (at the International Conference on Systems Biology), October, 8, Berlin, Germany. Previous events: 5th INCOME Hackathon (virtual), March 2-4, 2021, Bonn, Germany. 3rd INCOME Conference (virtual), March 1-3, 2021, Bonn, Germany. 4th INCOME Hackathon, February 5-7, 2020, Bonn, Germany. 3rd INCOME Hackathon, November 27-29, 2019, Berlin, Germany. 2nd INCOME Conference, November 25-27, 2019, Berlin, Germany. 2nd INCOME Hackathon, March 18 - 20, 2019, Frankfurt, Germany.</description>
     </item>
     
     <item>
       <title>Funds</title>
-      <link>https://income.github.io/page/fund/</link>
+      <link>https://integrative-pathway-models.github.io/page/fund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://income.github.io/page/fund/</guid>
+      <guid>https://integrative-pathway-models.github.io/page/fund/</guid>
       <description>INCOME acknowledges funding by the German Federal Ministry of Education and Research (BMBF) withing the e:Med program.</description>
     </item>
     
